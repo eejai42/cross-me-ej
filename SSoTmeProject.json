@@ -1,0 +1,82 @@
+{
+  "ShowHidden": false,
+  "ShowAllFiles": false,
+  "SaveDisabled": false,
+  "SSoTmeProjectId": "38f7b44f-61c3-44b9-921c-bd2304c571e8",
+  "Name": "cross-me-game",
+  "ProjectSettings": [
+    {
+      "ProjectSettingId": "2411e0b4-6564-4f97-9bd9-57ac1011bfa1",
+      "Name": "project-name",
+      "Value": "cross-me-game"
+    }
+  ],
+  "ProjectTranspilers": [
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
+        "Name": "AirtableToXml",
+        "Description": "Extracts the contents of an airtable base as a single Xml file."
+      },
+      "ProjectTranspilerId": "45008a0d-ae9f-47c6-85d6-9944fbe81b18",
+      "Name": "AirtableToXml",
+      "RelativePath": "/SSoT",
+      "CommandLine": "airtable/airtable-to-xml -p baseId=appAF6Q3Xfmfw6w4B"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "ba509977-74bf-486e-a405-1b2125bd5d15",
+        "Name": "XmlToJson",
+        "Description": "Converts XML to JSON using the NewtonSoft C# conversion tools."
+      },
+      "ProjectTranspilerId": "8937794d-f9f3-4c96-a48e-17165d39eb08",
+      "Name": "XmlToJson",
+      "RelativePath": "/SSoT",
+      "CommandLine": "codee42/xml-to-json -i .\\Airtable.xml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "fd14a7d7-472c-4dc6-8f5c-ff7baeb4f5a7",
+        "Name": "XmlToOdxml",
+        "Description": "Extract the Schema of an Xml file and then convert that into Odxml"
+      },
+      "ProjectTranspilerId": "6f2a24c0-32d3-45dc-bad7-3bdf9c605a06",
+      "Name": "XmlToOdxml",
+      "RelativePath": "/ODXML/RAW",
+      "CommandLine": "odxml42/xml-to-odxml -i ..\\..\\SSoT\\Airtable.xml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "8defe7a3-89cf-4989-b679-d9226519f622",
+        "Name": "OdxmlToNodeJSDocs",
+        "Description": "Creates easy to read/navigate html documentation for an Odxml Schema."
+      },
+      "ProjectTranspilerId": "a2cdd77a-627b-4598-9ccb-6096a969e021",
+      "Name": "OdxmlToNodeJSDocs",
+      "RelativePath": "/docs/SPECDB",
+      "CommandLine": "odxml42/odxml-to-nodejs-docs -i ..\\..\\ODXML\\DataSchema.odxml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "bbea1b94-36ed-44f6-8d99-20ac4c49f982",
+        "Name": "OdxmlToCleanOdxml",
+        "Description": "Allows for any data model to be \"cleaned up\" while preserving a \"map\" between the old/new models"
+      },
+      "ProjectTranspilerId": "101529fa-7e85-4919-a1f3-d4c498c03be7",
+      "Name": "OdxmlToCleanOdxml",
+      "RelativePath": "/ODXML",
+      "CommandLine": "odxml42/odxml-to-clean-odxml -i .\\RAW\\DataSchema.odxml -i Renames.xml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "595b7fe7-7f64-44c2-b48c-d096d997211f",
+        "Name": "OdxmlToCSharpPOCOs",
+        "Description": "Odxml To CSharp POCOs"
+      },
+      "ProjectTranspilerId": "cc5c26f6-54e9-49f0-8088-bc8f7f2a0cf9",
+      "Name": "OdxmlToCSharpPOCOs",
+      "RelativePath": "/dotnet/CrossMe.TestProject/DataClasses",
+      "CommandLine": "odxml42/odxml-to-csharp-pocos -i ..\\..\\..\\ODXML\\DataSchema.odxml"
+    }
+  ]
+}
