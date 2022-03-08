@@ -12,9 +12,9 @@ using System.Linq;
 using System.Text;
 
 namespace crossmegame.Lib.DataClasses
-{                   
-    
-    public partial class Game 
+{
+
+    public partial class Game
     {
         public Game()
         {
@@ -23,25 +23,27 @@ namespace crossmegame.Lib.DataClasses
             dynamic data = JsonConvert.DeserializeObject(json);
             var levelsJson = data.Airtable.GameLevels.GameLevel;
             List<GameLevel> levels = JsonConvert.DeserializeObject<List<GameLevel>>(levelsJson.ToString());
-
-            var game18 = levels.Single(level => level.GroupNumber == 1 && level.LevelNumber == 8);
-
             var levelCells = data.Airtable.LevelCells.LevelCell;
             var myCellsJson = levelCells.ToString();
             List<LevelCell> myCells = JsonConvert.DeserializeObject<List<LevelCell>>(myCellsJson);
-            var sb = new StringBuilder();
-            for (var y = 0; y < game18.PuzzleHeight; y++)
+
+            levels.ForEach(feLevel =>
             {
-                for (var x =0; x < game18.PuzzleWidth; x++)
+                var levelPuzzleCells = myCells.Where(cell => cell.GroupNumber == feLevel.GroupNumber && cell.LevelNumber == feLevel.LevelNumber && cell.CellStateCategory == "Answer");
+                var sb = new StringBuilder();
+                for (var y = 0; y < feLevel.PuzzleHeight; y++)
                 {
-                    var levelCell = myCells.FirstOrDefault(cell => cell.X == x && cell.Y == y);
-                    sb.Append(levelCell.CellStateName == "Selected" ? "X" : " ");
+                    for (var x = 0; x < feLevel.PuzzleWidth; x++)
+                    {
+                        var levelCell = levelPuzzleCells.FirstOrDefault(cell => cell.X == x && cell.Y == y);                                                
+                        sb.Append(!(levelCell is null) && (levelCell.CellStateName == "Selected") ? "X" : " ");
+                    }
+                    sb.AppendLine();
                 }
-                sb.AppendLine();
-            }
-            var result = sb.ToString();
-            File.WriteAllText("../../data.txt", result);
-                    object o = 1;
+                var result = sb.ToString();
+                File.WriteAllText($"../../data_{feLevel.Name}.txt", result);
+            });
+            object o = 1;
         }
 
         public override String ToString()
