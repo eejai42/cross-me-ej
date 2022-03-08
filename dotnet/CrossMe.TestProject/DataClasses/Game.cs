@@ -29,20 +29,27 @@ namespace crossmegame.Lib.DataClasses
 
             levels.ForEach(feLevel =>
             {
-                var levelPuzzleCells = myCells.Where(cell => cell.GroupNumber == feLevel.GroupNumber && cell.LevelNumber == feLevel.LevelNumber && cell.CellStateCategory == "Answer");
+                var levelPuzzleCells = myCells.Where(cell => cell.GameName == "Cross Me" && cell.GroupNumber == feLevel.GroupNumber && cell.LevelNumber == feLevel.LevelNumber && cell.CellStateCategory == "Answer");
                 var sb = new StringBuilder();
                 //sb.AppendLine(feLevel.Name);
                 for (var y = 0; y < feLevel.PuzzleHeight; y++)
                 {
                     for (var x = 0; x < feLevel.PuzzleWidth; x++)
                     {
-                        var levelCell = levelPuzzleCells.FirstOrDefault(cell => cell.X == x && cell.Y == y);                                                
-                        sb.Append(!(levelCell is null) && (levelCell.CellStateName == "Selected") ? "X" : " ");
+                        var levelCell = levelPuzzleCells.FirstOrDefault(cell => cell.X == x && cell.Y == y);
+                        if (levelCell is null)
+                        {
+                            object o = 1;
+                        }
+                        else
+                        {
+                            sb.Append(levelCell.CellStateName == "Selected" ? "X" : " ");
+                        }
                     }
                     sb.AppendLine();
                 }
                 var result = sb.ToString();
-                File.WriteAllText($"../../data_{feLevel.Name}.txt", result);
+                File.WriteAllText($"../../../data_Level {feLevel.GroupNumber}.{feLevel.LevelNumber}.txt", result);
             });
             object o = 1;
         }
