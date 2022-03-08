@@ -4,9 +4,9 @@
       <EntityId>rec0rNjYJLPu9wt9b</EntityId>
       <createdTime>2022-02-07T23:00:39Z</createdTime>
       <Name>SelectionMode</Name>
+      <Wdigets>Wdiget2</Wdigets>
       <AirtableName>SelectionModes</AirtableName>
       <PluralName>SelectionModes</PluralName>
-      <Wdigets>Wdiget2</Wdigets>
     </Entity>
     <Entity>
       <EntityId>rec7grMQmxRVlQZ1W</EntityId>
@@ -19,9 +19,9 @@
       <EntityId>recB7eqMA5QnhuBvz</EntityId>
       <createdTime>2022-02-07T23:00:39Z</createdTime>
       <Name>CellState</Name>
+      <Wdigets>Widget1</Wdigets>
       <AirtableName>CellStates</AirtableName>
       <PluralName>CellStates</PluralName>
-      <Wdigets>Widget1</Wdigets>
     </Entity>
     <Entity>
       <EntityId>recNvIHzUpNXcE3pu</EntityId>
@@ -48,9 +48,9 @@
       <EntityId>recdaIugMWXBn9cds</EntityId>
       <createdTime>2022-02-07T23:01:10Z</createdTime>
       <Name>GameLevelGroup</Name>
+      <Wdigets>Another1</Wdigets>
       <AirtableName>GameLevelGroups</AirtableName>
       <PluralName>GameLevelGroups</PluralName>
-      <Wdigets>Another1</Wdigets>
     </Entity>
     <Entity>
       <EntityId>recm70SvosVoFjqjk</EntityId>
@@ -116,60 +116,66 @@
       <createdTime>2022-02-06T23:46:10Z</createdTime>
       <LevelNumber>16</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.16</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.16</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>rec5DkMFOA7bqhhpQ</GameLevelId>
       <createdTime>2022-02-06T23:45:58Z</createdTime>
       <LevelNumber>4</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.4</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.4</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>rec7g0fmMBc4lLeqr</GameLevelId>
       <createdTime>2022-02-06T23:45:33Z</createdTime>
       <LevelNumber>2</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.2</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.2</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>rec84rMYKzPkqpfYc</GameLevelId>
       <createdTime>2022-02-06T23:46:04Z</createdTime>
       <LevelNumber>7</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.7</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.7</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recDztRmFuWww6X4R</GameLevelId>
       <createdTime>2022-02-06T23:46:10Z</createdTime>
       <LevelNumber>15</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.15</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.15</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recGwb05W9MienXcy</GameLevelId>
       <createdTime>2022-02-06T23:46:10Z</createdTime>
       <LevelNumber>12</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.12</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.12</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recNWEtLeHFmS5IGN</GameLevelId>
@@ -255,82 +261,90 @@
       <VerticalDefinitions>3</VerticalDefinitions>
       <LevelNumber>8</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.8</Name>
       <GroupNumber>1</GroupNumber>
-      <ExpectedDefinitionCells>25</ExpectedDefinitionCells>
-      <PuzzleWidth>5</PuzzleWidth>
+      <Name>Level 1.8</Name>
       <PuzzleHeight>5</PuzzleHeight>
+      <PuzzleWidth>5</PuzzleWidth>
+      <ExpectedDefinitionCells>25</ExpectedDefinitionCells>
       <PuzzleCells>25</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recNa7F43b7uMEzlc</GameLevelId>
       <createdTime>2022-02-06T23:46:04Z</createdTime>
       <LevelNumber>6</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.6</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.6</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recP58PojXbPOExWQ</GameLevelId>
       <createdTime>2022-02-06T23:46:10Z</createdTime>
       <LevelNumber>17</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.17</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.17</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recR4Se4Bhei12M2B</GameLevelId>
       <createdTime>2022-02-06T23:46:10Z</createdTime>
       <LevelNumber>13</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.13</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.13</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recSc01fEVrPiMboD</GameLevelId>
       <createdTime>2022-02-06T23:46:10Z</createdTime>
       <LevelNumber>14</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.14</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.14</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recSlQ5irk825iQNN</GameLevelId>
       <createdTime>2022-02-06T23:45:58Z</createdTime>
       <LevelNumber>5</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.5</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.5</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recTiGzDfs2VORp9m</GameLevelId>
       <createdTime>2022-02-06T23:45:33Z</createdTime>
       <LevelNumber>3</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.3</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.3</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recXr37mrT2GxI25c</GameLevelId>
       <createdTime>2022-02-06T23:45:33Z</createdTime>
       <LevelNumber>1</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.1</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.1</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>receHYAwASJaGmKPU</GameLevelId>
@@ -340,32 +354,35 @@
       <VerticalDefinitions>1</VerticalDefinitions>
       <LevelNumber>10</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.10</Name>
       <GroupNumber>1</GroupNumber>
-      <ExpectedDefinitionCells>21</ExpectedDefinitionCells>
-      <PuzzleWidth>7</PuzzleWidth>
+      <Name>Level 1.10</Name>
       <PuzzleHeight>7</PuzzleHeight>
+      <PuzzleWidth>7</PuzzleWidth>
+      <ExpectedDefinitionCells>21</ExpectedDefinitionCells>
       <PuzzleCells>49</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>recjcFA1AYLzm6VOO</GameLevelId>
       <createdTime>2022-02-06T23:46:10Z</createdTime>
       <LevelNumber>11</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.11</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.11</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
     <GameLevel>
       <GameLevelId>reczeIBrfbJxF9M8Y</GameLevelId>
       <createdTime>2022-02-06T23:46:04Z</createdTime>
       <LevelNumber>9</LevelNumber>
       <LevelGroup>recB5hsSx3uA5tzJZ</LevelGroup>
-      <Name>Level 1.9</Name>
       <GroupNumber>1</GroupNumber>
+      <Name>Level 1.9</Name>
       <ExpectedDefinitionCells>0</ExpectedDefinitionCells>
       <PuzzleCells>0</PuzzleCells>
+      <GameName>Cross me</GameName>
     </GameLevel>
   </GameLevels>
   <CellStates>
@@ -456,10 +473,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>-2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-1x-2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -487,8 +503,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rec2nFg72rbKUlWyc</LevelCellId>
@@ -498,10 +518,9 @@
       <Y>-2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>2</DefinedValue>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-2x-2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -529,8 +548,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rec360wYdtMCJCsbT</LevelCellId>
@@ -539,10 +562,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>1</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-0x1</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -570,8 +592,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rec4i4KJwqjJ0DYsD</LevelCellId>
@@ -581,10 +607,9 @@
       <Y>-1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>3</DefinedValue>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-3x-1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -612,8 +637,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rec6qN8opdvb3vNr9</LevelCellId>
@@ -623,10 +652,9 @@
       <Y>-1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>2</DefinedValue>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-2x-1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -654,8 +682,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rec6s3g71UXK6mRAP</LevelCellId>
@@ -665,10 +697,9 @@
       <Y>-1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>3</DefinedValue>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-1x-1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -696,8 +727,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rec7iB2hqRFBmPK45</LevelCellId>
@@ -706,10 +741,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--2x1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -737,8 +771,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rec89hJODUfAPROJ7</LevelCellId>
@@ -747,10 +785,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>0</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--3x0</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -778,8 +815,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recAD3vfHqa2wnH5B</LevelCellId>
@@ -789,10 +830,9 @@
       <Y>4</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>1</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--3x4</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -820,8 +860,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recGIj1ttwsO3RemD</LevelCellId>
@@ -830,10 +874,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>3</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--3x3</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -861,8 +904,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recKs83mUmZ5zcZ8I</LevelCellId>
@@ -871,10 +918,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>0</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-3x0</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -902,8 +948,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recL62HuKjabL6UFq</LevelCellId>
@@ -912,10 +962,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>4</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-0x4</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -943,8 +992,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recM3Vzh3Ajy7u9Ch</LevelCellId>
@@ -952,10 +1005,10 @@
       <X>2</X>
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>2</Y>
+      <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-2x2</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -983,9 +1036,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
-      <CellState>recXFamj3P0Xl9y82</CellState>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recNS7WfGcnu8STtE</LevelCellId>
@@ -994,10 +1050,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--3x2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1025,8 +1080,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recNxTXTUXcWxv3UO</LevelCellId>
@@ -1036,10 +1095,9 @@
       <Y>4</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>1</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--1x4</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1067,8 +1125,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recPK9MixbpaIqbKq</LevelCellId>
@@ -1077,10 +1139,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>4</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-3x4</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1108,8 +1169,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recPuJJm1yNOQiMHn</LevelCellId>
@@ -1119,10 +1184,9 @@
       <Y>0</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>1</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--1x0</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1150,8 +1214,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recQ3rSLUGTZjq483</LevelCellId>
@@ -1160,10 +1228,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--3x1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1191,8 +1258,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recT3ifTtOz0094OB</LevelCellId>
@@ -1202,10 +1273,9 @@
       <Y>1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>3</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--1x1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1233,8 +1303,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recTJ2UXgrrhmspfT</LevelCellId>
@@ -1243,10 +1317,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>1</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-3x1</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1274,8 +1347,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recWWqW3gFHzL7r0B</LevelCellId>
@@ -1285,10 +1362,9 @@
       <Y>4</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>1</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--2x4</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1316,8 +1392,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recX107crpgz07Vfa</LevelCellId>
@@ -1326,10 +1406,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>3</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-4x3</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1357,8 +1436,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recXp9UhhbXG61NF1</LevelCellId>
@@ -1368,10 +1451,9 @@
       <Y>3</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>5</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--1x3</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1399,8 +1481,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recZecWg1LNFhvsS0</LevelCellId>
@@ -1409,10 +1495,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>0</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-1x0</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1440,8 +1525,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recZywyGsl03RcYpE</LevelCellId>
@@ -1450,10 +1539,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>-2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-0x-2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1481,8 +1569,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recb7Cz1uTtlE3aJ0</LevelCellId>
@@ -1491,10 +1583,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>0</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-0x0</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1522,8 +1613,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recbKeBq0se81YmgI</LevelCellId>
@@ -1532,10 +1627,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>4</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-2x4</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1563,8 +1657,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recc90TwJ9K1LWiO0</LevelCellId>
@@ -1573,10 +1671,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>3</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--2x3</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1604,8 +1701,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recdK2gZeHvVQHBGX</LevelCellId>
@@ -1614,10 +1715,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>1</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-1x1</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1645,8 +1745,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recdrbKquKyUWcFKf</LevelCellId>
@@ -1655,10 +1759,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>-2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-3x-2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1686,8 +1789,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>receSxa6s1NeAVsLd</LevelCellId>
@@ -1697,10 +1804,9 @@
       <Y>2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>1</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--1x2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1728,8 +1834,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recf8zYB4tj0TX5w0</LevelCellId>
@@ -1739,10 +1849,9 @@
       <Y>-1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>2</DefinedValue>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-4x-1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1770,8 +1879,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recgc5T68MGJtrGGo</LevelCellId>
@@ -1780,10 +1893,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>4</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-1x4</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1811,8 +1923,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recgk6s7fjKdFoFDY</LevelCellId>
@@ -1821,10 +1937,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>1</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-2x1</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1852,8 +1967,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rechbFHbS82PmW1yF</LevelCellId>
@@ -1862,10 +1981,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>0</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-2x0</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1893,8 +2011,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>reciO0cZ5PXaNlChh</LevelCellId>
@@ -1903,10 +2025,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>-2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-4x-2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1934,8 +2055,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recj8XWQymsFfFtuP</LevelCellId>
@@ -1945,10 +2070,9 @@
       <Y>2</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>1</DefinedValue>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--2x2</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -1976,8 +2100,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recj8mz1QiMY2AMPz</LevelCellId>
@@ -1986,10 +2114,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>1</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-4x1</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2017,8 +2144,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recjDocM0kEblqzSa</LevelCellId>
@@ -2026,10 +2157,10 @@
       <X>1</X>
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>2</Y>
+      <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-1x2</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2057,9 +2188,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
-      <CellState>rec0es54v72udNPku</CellState>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>reclYOXHa0vjLuOb8</LevelCellId>
@@ -2068,10 +2202,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>0</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalDef for Level 1.8--2x0</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2099,8 +2232,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>1</IsVerticalPuzzleDefinition>
       <CellType>Vertical</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>reclnswyY84Zzp5AJ</LevelCellId>
@@ -2108,10 +2245,10 @@
       <X>3</X>
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>2</Y>
+      <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-3x2</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2139,9 +2276,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
-      <CellState>rec0es54v72udNPku</CellState>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recmSVoZ3wxsyulVU</LevelCellId>
@@ -2150,10 +2290,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>0</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-4x0</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2181,8 +2320,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recqslcqcdhXRJpav</LevelCellId>
@@ -2190,10 +2333,10 @@
       <X>4</X>
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>2</Y>
+      <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-4x2</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2221,9 +2364,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
-      <CellState>recXFamj3P0Xl9y82</CellState>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recrUWXaXqH7snUof</LevelCellId>
@@ -2232,10 +2378,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>3</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-2x3</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2263,8 +2408,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recsuyflhtP28oo4v</LevelCellId>
@@ -2273,10 +2422,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>3</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-1x3</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2304,8 +2452,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>rectPOgARHeWoofRp</LevelCellId>
@@ -2314,10 +2466,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>3</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-0x3</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2345,8 +2496,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recv1QQqHUQQrS6gH</LevelCellId>
@@ -2355,10 +2510,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>3</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-3x3</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2386,8 +2540,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recvEEPluQiflXwtt</LevelCellId>
@@ -2397,10 +2555,9 @@
       <Y>-1</Y>
       <CellState>recswIgkvBNjQSt2p</CellState>
       <DefinedValue>2</DefinedValue>
+      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
       <Name>HorizontalDef for Level 1.8-0x-1</Name>
       <IsDefinition>1</IsDefinition>
-      <IsHorizontalPuzzleDefinition>1</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2428,8 +2585,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Definition</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Horizontal</CellType>
       <CellStateName>PuzzleDefinition</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recwJ3DQDJoWqDzxn</LevelCellId>
@@ -2438,10 +2599,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>2</Y>
       <CellState>recXFamj3P0Xl9y82</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-0x2</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2469,8 +2629,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Not Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
     <LevelCell>
       <LevelCellId>recwVTX0ptCSEPMTH</LevelCellId>
@@ -2479,10 +2643,9 @@
       <GameLevel>recNWEtLeHFmS5IGN</GameLevel>
       <Y>4</Y>
       <CellState>rec0es54v72udNPku</CellState>
+      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
       <Name>VerticalAnswer for Level 1.8-4x4</Name>
       <IsDefinition>0</IsDefinition>
-      <IsHorizontalPuzzleDefinition>0</IsHorizontalPuzzleDefinition>
-      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <GamePicture>
         <GamePictureId>att6pcOtgCjCDHRSK</GamePictureId>
         <width>2048</width>
@@ -2510,8 +2673,12 @@
         </thumbnails>
       </GamePicture>
       <CellStateCategory>Answer</CellStateCategory>
+      <IsVerticalPuzzleDefinition>0</IsVerticalPuzzleDefinition>
       <CellType>Answer</CellType>
       <CellStateName>Selected</CellStateName>
+      <GameName>Cross me</GameName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </LevelCell>
   </LevelCells>
   <Games>
@@ -2532,6 +2699,9 @@
       <Directions>UpDownLeftRight</Directions>
       <IsAuto>true</IsAuto>
       <DefaultSpaces>Four</DefaultSpaces>
+      <GameLevelGroups>recB5hsSx3uA5tzJZ</GameLevelGroups>
+      <GameLevelGroups>recwyewGR1S2qcVbp</GameLevelGroups>
+      <GameLevelGroups>recY5AqNZUPe7hwBl</GameLevelGroups>
     </Game>
     <Game>
       <GameId>recWFcIS3MRHQOLuZ</GameId>
@@ -2544,9 +2714,9 @@
       <EntityId>rec0rNjYJLPu9wt9b</EntityId>
       <createdTime>2022-02-07T23:00:39Z</createdTime>
       <Name>SelectionMode</Name>
+      <Wdigets>Wdiget2</Wdigets>
       <AirtableName>SelectionModes</AirtableName>
       <PluralName>SelectionModes</PluralName>
-      <Wdigets>Wdiget2</Wdigets>
     </Entity>
     <Entity>
       <EntityId>rec7grMQmxRVlQZ1W</EntityId>
@@ -2559,9 +2729,9 @@
       <EntityId>recB7eqMA5QnhuBvz</EntityId>
       <createdTime>2022-02-07T23:00:39Z</createdTime>
       <Name>CellState</Name>
+      <Wdigets>Widget1</Wdigets>
       <AirtableName>CellStates</AirtableName>
       <PluralName>CellStates</PluralName>
-      <Wdigets>Widget1</Wdigets>
     </Entity>
     <Entity>
       <EntityId>recNvIHzUpNXcE3pu</EntityId>
@@ -2588,9 +2758,9 @@
       <EntityId>recdaIugMWXBn9cds</EntityId>
       <createdTime>2022-02-07T23:01:10Z</createdTime>
       <Name>GameLevelGroup</Name>
+      <Wdigets>Another1</Wdigets>
       <AirtableName>GameLevelGroups</AirtableName>
       <PluralName>GameLevelGroups</PluralName>
-      <Wdigets>Another1</Wdigets>
     </Entity>
     <Entity>
       <EntityId>recm70SvosVoFjqjk</EntityId>
@@ -2630,18 +2800,24 @@
       <GameLevels>rec2r1MFc4328VEG7</GameLevels>
       <GameLevels>recP58PojXbPOExWQ</GameLevels>
       <Name>Group 1</Name>
+      <Game>recGuV1q68sJE1yAj</Game>
+      <GameName>Cross me</GameName>
     </GameLevelGroup>
     <GameLevelGroup>
       <GameLevelGroupId>recY5AqNZUPe7hwBl</GameLevelGroupId>
       <createdTime>2022-02-06T23:49:21Z</createdTime>
       <GroupNumber>3</GroupNumber>
       <Name>Group 3</Name>
+      <Game>recGuV1q68sJE1yAj</Game>
+      <GameName>Cross me</GameName>
     </GameLevelGroup>
     <GameLevelGroup>
       <GameLevelGroupId>recwyewGR1S2qcVbp</GameLevelGroupId>
       <createdTime>2022-02-06T23:49:21Z</createdTime>
       <GroupNumber>2</GroupNumber>
       <Name>Group 2</Name>
+      <Game>recGuV1q68sJE1yAj</Game>
+      <GameName>Cross me</GameName>
     </GameLevelGroup>
   </GameLevelGroups>
   <Commands>

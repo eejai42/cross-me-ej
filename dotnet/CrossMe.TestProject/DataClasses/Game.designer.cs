@@ -49,6 +49,9 @@ namespace crossmegame.Lib.DataClasses
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "DefaultSpaces")]
         public String DefaultSpaces { get; set; }
     
+        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "GameLevelGroups")]
+        public String[] GameLevelGroups { get; set; }
+    
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "Games")]
         public Guid[] Games { get; set; }
     

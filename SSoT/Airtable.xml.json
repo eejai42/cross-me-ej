@@ -7,9 +7,9 @@
             "EntityId": "rec0rNjYJLPu9wt9b",
             "createdTime": "2022-02-07T23:00:39Z",
             "Name": "SelectionMode",
+            "Wdigets": "Wdiget2",
             "AirtableName": "SelectionModes",
-            "PluralName": "SelectionModes",
-            "Wdigets": "Wdiget2"
+            "PluralName": "SelectionModes"
           },
           {
             "EntityId": "rec7grMQmxRVlQZ1W",
@@ -22,9 +22,9 @@
             "EntityId": "recB7eqMA5QnhuBvz",
             "createdTime": "2022-02-07T23:00:39Z",
             "Name": "CellState",
+            "Wdigets": "Widget1",
             "AirtableName": "CellStates",
-            "PluralName": "CellStates",
-            "Wdigets": "Widget1"
+            "PluralName": "CellStates"
           },
           {
             "EntityId": "recNvIHzUpNXcE3pu",
@@ -51,9 +51,9 @@
             "EntityId": "recdaIugMWXBn9cds",
             "createdTime": "2022-02-07T23:01:10Z",
             "Name": "GameLevelGroup",
+            "Wdigets": "Another1",
             "AirtableName": "GameLevelGroups",
-            "PluralName": "GameLevelGroups",
-            "Wdigets": "Another1"
+            "PluralName": "GameLevelGroups"
           },
           {
             "EntityId": "recm70SvosVoFjqjk",
@@ -77,9 +77,9 @@
             "EntityId": "rec0rNjYJLPu9wt9b",
             "createdTime": "2022-02-07T23:00:39Z",
             "Name": "SelectionMode",
+            "Wdigets": "Wdiget2",
             "AirtableName": "SelectionModes",
-            "PluralName": "SelectionModes",
-            "Wdigets": "Wdiget2"
+            "PluralName": "SelectionModes"
           },
           {
             "EntityId": "rec7grMQmxRVlQZ1W",
@@ -92,9 +92,9 @@
             "EntityId": "recB7eqMA5QnhuBvz",
             "createdTime": "2022-02-07T23:00:39Z",
             "Name": "CellState",
+            "Wdigets": "Widget1",
             "AirtableName": "CellStates",
-            "PluralName": "CellStates",
-            "Wdigets": "Widget1"
+            "PluralName": "CellStates"
           },
           {
             "EntityId": "recNvIHzUpNXcE3pu",
@@ -121,9 +121,9 @@
             "EntityId": "recdaIugMWXBn9cds",
             "createdTime": "2022-02-07T23:01:10Z",
             "Name": "GameLevelGroup",
+            "Wdigets": "Another1",
             "AirtableName": "GameLevelGroups",
-            "PluralName": "GameLevelGroups",
-            "Wdigets": "Another1"
+            "PluralName": "GameLevelGroups"
           },
           {
             "EntityId": "recm70SvosVoFjqjk",
@@ -194,60 +194,66 @@
           "createdTime": "2022-02-06T23:46:10Z",
           "LevelNumber": "16",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.16",
           "GroupNumber": "1",
+          "Name": "Level 1.16",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "rec5DkMFOA7bqhhpQ",
           "createdTime": "2022-02-06T23:45:58Z",
           "LevelNumber": "4",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.4",
           "GroupNumber": "1",
+          "Name": "Level 1.4",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "rec7g0fmMBc4lLeqr",
           "createdTime": "2022-02-06T23:45:33Z",
           "LevelNumber": "2",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.2",
           "GroupNumber": "1",
+          "Name": "Level 1.2",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "rec84rMYKzPkqpfYc",
           "createdTime": "2022-02-06T23:46:04Z",
           "LevelNumber": "7",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.7",
           "GroupNumber": "1",
+          "Name": "Level 1.7",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recDztRmFuWww6X4R",
           "createdTime": "2022-02-06T23:46:10Z",
           "LevelNumber": "15",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.15",
           "GroupNumber": "1",
+          "Name": "Level 1.15",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recGwb05W9MienXcy",
           "createdTime": "2022-02-06T23:46:10Z",
           "LevelNumber": "12",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.12",
           "GroupNumber": "1",
+          "Name": "Level 1.12",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recNWEtLeHFmS5IGN",
@@ -335,82 +341,90 @@
           "VerticalDefinitions": "3",
           "LevelNumber": "8",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.8",
           "GroupNumber": "1",
-          "ExpectedDefinitionCells": "25",
-          "PuzzleWidth": "5",
+          "Name": "Level 1.8",
           "PuzzleHeight": "5",
-          "PuzzleCells": "25"
+          "PuzzleWidth": "5",
+          "ExpectedDefinitionCells": "25",
+          "PuzzleCells": "25",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recNa7F43b7uMEzlc",
           "createdTime": "2022-02-06T23:46:04Z",
           "LevelNumber": "6",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.6",
           "GroupNumber": "1",
+          "Name": "Level 1.6",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recP58PojXbPOExWQ",
           "createdTime": "2022-02-06T23:46:10Z",
           "LevelNumber": "17",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.17",
           "GroupNumber": "1",
+          "Name": "Level 1.17",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recR4Se4Bhei12M2B",
           "createdTime": "2022-02-06T23:46:10Z",
           "LevelNumber": "13",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.13",
           "GroupNumber": "1",
+          "Name": "Level 1.13",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recSc01fEVrPiMboD",
           "createdTime": "2022-02-06T23:46:10Z",
           "LevelNumber": "14",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.14",
           "GroupNumber": "1",
+          "Name": "Level 1.14",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recSlQ5irk825iQNN",
           "createdTime": "2022-02-06T23:45:58Z",
           "LevelNumber": "5",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.5",
           "GroupNumber": "1",
+          "Name": "Level 1.5",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recTiGzDfs2VORp9m",
           "createdTime": "2022-02-06T23:45:33Z",
           "LevelNumber": "3",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.3",
           "GroupNumber": "1",
+          "Name": "Level 1.3",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recXr37mrT2GxI25c",
           "createdTime": "2022-02-06T23:45:33Z",
           "LevelNumber": "1",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.1",
           "GroupNumber": "1",
+          "Name": "Level 1.1",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "receHYAwASJaGmKPU",
@@ -420,32 +434,35 @@
           "VerticalDefinitions": "1",
           "LevelNumber": "10",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.10",
           "GroupNumber": "1",
-          "ExpectedDefinitionCells": "21",
-          "PuzzleWidth": "7",
+          "Name": "Level 1.10",
           "PuzzleHeight": "7",
-          "PuzzleCells": "49"
+          "PuzzleWidth": "7",
+          "ExpectedDefinitionCells": "21",
+          "PuzzleCells": "49",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "recjcFA1AYLzm6VOO",
           "createdTime": "2022-02-06T23:46:10Z",
           "LevelNumber": "11",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.11",
           "GroupNumber": "1",
+          "Name": "Level 1.11",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         },
         {
           "GameLevelId": "reczeIBrfbJxF9M8Y",
           "createdTime": "2022-02-06T23:46:04Z",
           "LevelNumber": "9",
           "LevelGroup": "recB5hsSx3uA5tzJZ",
-          "Name": "Level 1.9",
           "GroupNumber": "1",
+          "Name": "Level 1.9",
           "ExpectedDefinitionCells": "0",
-          "PuzzleCells": "0"
+          "PuzzleCells": "0",
+          "GameName": "Cross me"
         }
       ]
     },
@@ -546,10 +563,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "-2",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-1x-2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -577,8 +593,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rec2nFg72rbKUlWyc",
@@ -588,10 +608,9 @@
           "Y": "-2",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "2",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-2x-2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -619,8 +638,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rec360wYdtMCJCsbT",
@@ -629,10 +652,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "1",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-0x1",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -660,8 +682,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rec4i4KJwqjJ0DYsD",
@@ -671,10 +697,9 @@
           "Y": "-1",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "3",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-3x-1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -702,8 +727,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rec6qN8opdvb3vNr9",
@@ -713,10 +742,9 @@
           "Y": "-1",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "2",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-2x-1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -744,8 +772,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rec6s3g71UXK6mRAP",
@@ -755,10 +787,9 @@
           "Y": "-1",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "3",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-1x-1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -786,8 +817,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rec7iB2hqRFBmPK45",
@@ -796,10 +831,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "1",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--2x1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -827,8 +861,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rec89hJODUfAPROJ7",
@@ -837,10 +875,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "0",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--3x0",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -868,8 +905,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recAD3vfHqa2wnH5B",
@@ -879,10 +920,9 @@
           "Y": "4",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "1",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--3x4",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -910,8 +950,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recGIj1ttwsO3RemD",
@@ -920,10 +964,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "3",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--3x3",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -951,8 +994,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recKs83mUmZ5zcZ8I",
@@ -961,10 +1008,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "0",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-3x0",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -992,8 +1038,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recL62HuKjabL6UFq",
@@ -1002,10 +1052,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "4",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-0x4",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1033,8 +1082,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recM3Vzh3Ajy7u9Ch",
@@ -1042,10 +1095,10 @@
           "X": "2",
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "2",
+          "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-2x2",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1073,9 +1126,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
           "CellStateName": "Not Selected",
-          "CellState": "recXFamj3P0Xl9y82"
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recNS7WfGcnu8STtE",
@@ -1084,10 +1140,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "2",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--3x2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1115,8 +1170,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recNxTXTUXcWxv3UO",
@@ -1126,10 +1185,9 @@
           "Y": "4",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "1",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--1x4",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1157,8 +1215,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recPK9MixbpaIqbKq",
@@ -1167,10 +1229,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "4",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-3x4",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1198,8 +1259,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recPuJJm1yNOQiMHn",
@@ -1209,10 +1274,9 @@
           "Y": "0",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "1",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--1x0",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1240,8 +1304,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recQ3rSLUGTZjq483",
@@ -1250,10 +1318,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "1",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--3x1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1281,8 +1348,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recT3ifTtOz0094OB",
@@ -1292,10 +1363,9 @@
           "Y": "1",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "3",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--1x1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1323,8 +1393,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recTJ2UXgrrhmspfT",
@@ -1333,10 +1407,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "1",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-3x1",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1364,8 +1437,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recWWqW3gFHzL7r0B",
@@ -1375,10 +1452,9 @@
           "Y": "4",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "1",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--2x4",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1406,8 +1482,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recX107crpgz07Vfa",
@@ -1416,10 +1496,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "3",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-4x3",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1447,8 +1526,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recXp9UhhbXG61NF1",
@@ -1458,10 +1541,9 @@
           "Y": "3",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "5",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--1x3",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1489,8 +1571,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recZecWg1LNFhvsS0",
@@ -1499,10 +1585,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "0",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-1x0",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1530,8 +1615,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recZywyGsl03RcYpE",
@@ -1540,10 +1629,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "-2",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-0x-2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1571,8 +1659,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recb7Cz1uTtlE3aJ0",
@@ -1581,10 +1673,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "0",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-0x0",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1612,8 +1703,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recbKeBq0se81YmgI",
@@ -1622,10 +1717,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "4",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-2x4",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1653,8 +1747,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recc90TwJ9K1LWiO0",
@@ -1663,10 +1761,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "3",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--2x3",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1694,8 +1791,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recdK2gZeHvVQHBGX",
@@ -1704,10 +1805,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "1",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-1x1",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1735,8 +1835,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recdrbKquKyUWcFKf",
@@ -1745,10 +1849,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "-2",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-3x-2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1776,8 +1879,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "receSxa6s1NeAVsLd",
@@ -1787,10 +1894,9 @@
           "Y": "2",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "1",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--1x2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1818,8 +1924,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recf8zYB4tj0TX5w0",
@@ -1829,10 +1939,9 @@
           "Y": "-1",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "2",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-4x-1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1860,8 +1969,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recgc5T68MGJtrGGo",
@@ -1870,10 +1983,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "4",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-1x4",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1901,8 +2013,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recgk6s7fjKdFoFDY",
@@ -1911,10 +2027,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "1",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-2x1",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1942,8 +2057,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rechbFHbS82PmW1yF",
@@ -1952,10 +2071,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "0",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-2x0",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -1983,8 +2101,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "reciO0cZ5PXaNlChh",
@@ -1993,10 +2115,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "-2",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-4x-2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2024,8 +2145,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recj8XWQymsFfFtuP",
@@ -2035,10 +2160,9 @@
           "Y": "2",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "1",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--2x2",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2066,8 +2190,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recj8mz1QiMY2AMPz",
@@ -2076,10 +2204,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "1",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-4x1",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2107,8 +2234,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recjDocM0kEblqzSa",
@@ -2116,10 +2247,10 @@
           "X": "1",
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "2",
+          "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-1x2",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2147,9 +2278,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
           "CellStateName": "Selected",
-          "CellState": "rec0es54v72udNPku"
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "reclYOXHa0vjLuOb8",
@@ -2158,10 +2292,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "0",
           "CellState": "recswIgkvBNjQSt2p",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalDef for Level 1.8--2x0",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "1",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2189,8 +2322,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "1",
           "CellType": "Vertical",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "reclnswyY84Zzp5AJ",
@@ -2198,10 +2335,10 @@
           "X": "3",
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "2",
+          "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-3x2",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2229,9 +2366,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
           "CellStateName": "Selected",
-          "CellState": "rec0es54v72udNPku"
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recmSVoZ3wxsyulVU",
@@ -2240,10 +2380,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "0",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-4x0",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2271,8 +2410,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recqslcqcdhXRJpav",
@@ -2280,10 +2423,10 @@
           "X": "4",
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "2",
+          "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-4x2",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2311,9 +2454,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
           "CellStateName": "Not Selected",
-          "CellState": "recXFamj3P0Xl9y82"
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recrUWXaXqH7snUof",
@@ -2322,10 +2468,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "3",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-2x3",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2353,8 +2498,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recsuyflhtP28oo4v",
@@ -2363,10 +2512,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "3",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-1x3",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2394,8 +2542,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "rectPOgARHeWoofRp",
@@ -2404,10 +2556,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "3",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-0x3",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2435,8 +2586,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recv1QQqHUQQrS6gH",
@@ -2445,10 +2600,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "3",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-3x3",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2476,8 +2630,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recvEEPluQiflXwtt",
@@ -2487,10 +2645,9 @@
           "Y": "-1",
           "CellState": "recswIgkvBNjQSt2p",
           "DefinedValue": "2",
+          "IsHorizontalPuzzleDefinition": "1",
           "Name": "HorizontalDef for Level 1.8-0x-1",
           "IsDefinition": "1",
-          "IsHorizontalPuzzleDefinition": "1",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2518,8 +2675,12 @@
             }
           },
           "CellStateCategory": "Definition",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Horizontal",
-          "CellStateName": "PuzzleDefinition"
+          "CellStateName": "PuzzleDefinition",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recwJ3DQDJoWqDzxn",
@@ -2528,10 +2689,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "2",
           "CellState": "recXFamj3P0Xl9y82",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-0x2",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2559,8 +2719,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Not Selected"
+          "CellStateName": "Not Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         },
         {
           "LevelCellId": "recwVTX0ptCSEPMTH",
@@ -2569,10 +2733,9 @@
           "GameLevel": "recNWEtLeHFmS5IGN",
           "Y": "4",
           "CellState": "rec0es54v72udNPku",
+          "IsHorizontalPuzzleDefinition": "0",
           "Name": "VerticalAnswer for Level 1.8-4x4",
           "IsDefinition": "0",
-          "IsHorizontalPuzzleDefinition": "0",
-          "IsVerticalPuzzleDefinition": "0",
           "GamePicture": {
             "GamePictureId": "att6pcOtgCjCDHRSK",
             "width": "2048",
@@ -2600,8 +2763,12 @@
             }
           },
           "CellStateCategory": "Answer",
+          "IsVerticalPuzzleDefinition": "0",
           "CellType": "Answer",
-          "CellStateName": "Selected"
+          "CellStateName": "Selected",
+          "GameName": "Cross me",
+          "GroupNumber": "1",
+          "LevelNumber": "8"
         }
       ]
     },
@@ -2623,7 +2790,12 @@
           "Name": "Cross me",
           "Directions": "UpDownLeftRight",
           "IsAuto": "true",
-          "DefaultSpaces": "Four"
+          "DefaultSpaces": "Four",
+          "GameLevelGroups": [
+            "recB5hsSx3uA5tzJZ",
+            "recwyewGR1S2qcVbp",
+            "recY5AqNZUPe7hwBl"
+          ]
         },
         {
           "GameId": "recWFcIS3MRHQOLuZ",
@@ -2657,19 +2829,25 @@
             "rec2r1MFc4328VEG7",
             "recP58PojXbPOExWQ"
           ],
-          "Name": "Group 1"
+          "Name": "Group 1",
+          "Game": "recGuV1q68sJE1yAj",
+          "GameName": "Cross me"
         },
         {
           "GameLevelGroupId": "recY5AqNZUPe7hwBl",
           "createdTime": "2022-02-06T23:49:21Z",
           "GroupNumber": "3",
-          "Name": "Group 3"
+          "Name": "Group 3",
+          "Game": "recGuV1q68sJE1yAj",
+          "GameName": "Cross me"
         },
         {
           "GameLevelGroupId": "recwyewGR1S2qcVbp",
           "createdTime": "2022-02-06T23:49:21Z",
           "GroupNumber": "2",
-          "Name": "Group 2"
+          "Name": "Group 2",
+          "Game": "recGuV1q68sJE1yAj",
+          "GameName": "Cross me"
         }
       ]
     },

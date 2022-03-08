@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossMe.TestProject", "CrossMe.TestProject\CrossMe.TestProject.csproj", "{1A070067-5F33-48D7-80DB-1397566AD0AE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SSoT", "SSoT", "{032E9913-57FB-4A39-BB33-10B7A7F9FE2D}"
+	ProjectSection(SolutionItems) = preProject
+		..\SSoT\Airtable.xml.json = ..\SSoT\Airtable.xml.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
