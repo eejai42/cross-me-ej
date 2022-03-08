@@ -44,7 +44,8 @@ cross-me-game  Data model</h1><a class="btn btn-sm btn-primary" href="Index.html
                         ExpectedDefinitionCells</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         PuzzleWidth</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         PuzzleHeight</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
-                        PuzzleCells</td><td>BYTE</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">GameLevel Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> GameLevelId, CreatedTime, HorizontalDefinitions, LevelCell, LevelSize, VerticalDefinitions, LevelNumber, LevelGroup, Name, GroupNumber, ExpectedDefinitionCells, PuzzleWidth, PuzzleHeight, PuzzleCells
+                        PuzzleCells</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        GameName</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">GameLevel Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> GameLevelId, CreatedTime, HorizontalDefinitions, LevelCell, LevelSize, VerticalDefinitions, LevelNumber, LevelGroup, Name, GroupNumber, ExpectedDefinitionCells, PuzzleWidth, PuzzleHeight, PuzzleCells, GameName
 
 <b>FROM</b> GameLevel
 
@@ -90,7 +91,10 @@ cross-me-game  Data model</h1><a class="btn btn-sm btn-primary" href="Index.html
                         IsVerticalPuzzleDefinition</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         CellStateCategory</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         CellType</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
-                        CellStateName</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">LevelCell Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> LevelCellId, CreatedTime, X, GameLevel, Y, CellState, DefinedValue, Name, IsDefinition, IsHorizontalPuzzleDefinition, IsVerticalPuzzleDefinition, CellStateCategory, CellType, CellStateName
+                        CellStateName</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        GameName</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        GroupNumber</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        LevelNumber</td><td>BYTE</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">LevelCell Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> LevelCellId, CreatedTime, X, GameLevel, Y, CellState, DefinedValue, Name, IsDefinition, IsHorizontalPuzzleDefinition, IsVerticalPuzzleDefinition, CellStateCategory, CellType, CellStateName, GameName, GroupNumber, LevelNumber
 
 <b>FROM</b> LevelCell
 
@@ -134,7 +138,8 @@ cross-me-game  Data model</h1><a class="btn btn-sm btn-primary" href="Index.html
                         Name</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         Directions</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         IsAuto</td><td>BOOLEAN</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
-                        DefaultSpaces</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">Game Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> GameId, CreatedTime, Notes, SelectionSymbol, Name, Directions, IsAuto, DefaultSpaces, Games
+                        GameLevelGroups</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        DefaultSpaces</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">Game Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> GameId, CreatedTime, Notes, SelectionSymbol, Name, Directions, IsAuto, GameLevelGroups, DefaultSpaces, Games
 
 <b>FROM</b> Game
 
@@ -151,8 +156,10 @@ cross-me-game  Data model</h1><a class="btn btn-sm btn-primary" href="Index.html
                         GameLevelGroupId</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         CreatedTime</td><td>DATETIME</td><td>createdTime</td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         GroupNumber</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        Game</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
                         GameLevels</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
-                        Name</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">GameLevelGroup Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> GameLevelGroupId, CreatedTime, GroupNumber, GameLevels, Name
+                        Name</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        GameName</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">GameLevelGroup Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> GameLevelGroupId, CreatedTime, GroupNumber, Game, GameLevels, Name, GameName
 
 <b>FROM</b> GameLevelGroup
 

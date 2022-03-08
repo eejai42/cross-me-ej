@@ -783,6 +783,41 @@
                       "IsAttribute": "0",
                       "IsCollection": "0"
                     }
+                  },
+                  {
+                    "Name": "GameName",
+                    "OriginalName": "GameName",
+                    "Description": "",
+                    "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                    "DataType": "TEXT",
+                    "OriginalDataType": "TEXT",
+                    "Length": "100",
+                    "IsNullable": "1",
+                    "IsPrimaryKey": "0",
+                    "IsAttribute": "0",
+                    "IsCollection": "0",
+                    "MatchingMetaData": {
+                      "FromName": "GameLevel.GameName",
+                      "FromObjectName": "GameLevel",
+                      "FromPropertyName": "GameName",
+                      "ToName": "GameName",
+                      "ToObjectName": "GameLevel",
+                      "ToPropertyName": "GameName",
+                      "Include": "true",
+                      "IsCollection": "0",
+                      "Description": "",
+                      "DataType": "TEXT"
+                    },
+                    "RAWData": {
+                      "Name": "GameName",
+                      "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                      "DataType": "TEXT",
+                      "Length": "100",
+                      "IsNullable": "1",
+                      "IsPrimaryKey": "0",
+                      "IsAttribute": "0",
+                      "IsCollection": "0"
+                    }
                   }
                 ]
               },
@@ -1527,6 +1562,111 @@
                       "IsAttribute": "0",
                       "IsCollection": "0"
                     }
+                  },
+                  {
+                    "Name": "GameName",
+                    "OriginalName": "GameName",
+                    "Description": "",
+                    "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                    "DataType": "TEXT",
+                    "OriginalDataType": "TEXT",
+                    "Length": "100",
+                    "IsNullable": "1",
+                    "IsPrimaryKey": "0",
+                    "IsAttribute": "0",
+                    "IsCollection": "0",
+                    "MatchingMetaData": {
+                      "FromName": "LevelCell.GameName",
+                      "FromObjectName": "LevelCell",
+                      "FromPropertyName": "GameName",
+                      "ToName": "GameName",
+                      "ToObjectName": "LevelCell",
+                      "ToPropertyName": "GameName",
+                      "Include": "true",
+                      "IsCollection": "0",
+                      "Description": "",
+                      "DataType": "TEXT"
+                    },
+                    "RAWData": {
+                      "Name": "GameName",
+                      "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                      "DataType": "TEXT",
+                      "Length": "100",
+                      "IsNullable": "1",
+                      "IsPrimaryKey": "0",
+                      "IsAttribute": "0",
+                      "IsCollection": "0"
+                    }
+                  },
+                  {
+                    "Name": "GroupNumber",
+                    "OriginalName": "GroupNumber",
+                    "Description": "",
+                    "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                    "DataType": "BYTE",
+                    "OriginalDataType": "BYTE",
+                    "Length": "",
+                    "IsNullable": "1",
+                    "IsPrimaryKey": "0",
+                    "IsAttribute": "0",
+                    "IsCollection": "0",
+                    "MatchingMetaData": {
+                      "FromName": "LevelCell.GroupNumber",
+                      "FromObjectName": "LevelCell",
+                      "FromPropertyName": "GroupNumber",
+                      "ToName": "GroupNumber",
+                      "ToObjectName": "LevelCell",
+                      "ToPropertyName": "GroupNumber",
+                      "Include": "true",
+                      "IsCollection": "0",
+                      "Description": "",
+                      "DataType": "BYTE"
+                    },
+                    "RAWData": {
+                      "Name": "GroupNumber",
+                      "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                      "DataType": "BYTE",
+                      "Length": "",
+                      "IsNullable": "1",
+                      "IsPrimaryKey": "0",
+                      "IsAttribute": "0",
+                      "IsCollection": "0"
+                    }
+                  },
+                  {
+                    "Name": "LevelNumber",
+                    "OriginalName": "LevelNumber",
+                    "Description": "",
+                    "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                    "DataType": "BYTE",
+                    "OriginalDataType": "BYTE",
+                    "Length": "",
+                    "IsNullable": "1",
+                    "IsPrimaryKey": "0",
+                    "IsAttribute": "0",
+                    "IsCollection": "0",
+                    "MatchingMetaData": {
+                      "FromName": "LevelCell.LevelNumber",
+                      "FromObjectName": "LevelCell",
+                      "FromPropertyName": "LevelNumber",
+                      "ToName": "LevelNumber",
+                      "ToObjectName": "LevelCell",
+                      "ToPropertyName": "LevelNumber",
+                      "Include": "true",
+                      "IsCollection": "0",
+                      "Description": "",
+                      "DataType": "BYTE"
+                    },
+                    "RAWData": {
+                      "Name": "LevelNumber",
+                      "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                      "DataType": "BYTE",
+                      "Length": "",
+                      "IsNullable": "1",
+                      "IsPrimaryKey": "0",
+                      "IsAttribute": "0",
+                      "IsCollection": "0"
+                    }
                   }
                 ]
               },
@@ -2063,6 +2203,41 @@
                     }
                   },
                   {
+                    "Name": "GameLevelGroups",
+                    "OriginalName": "GameLevelGroups",
+                    "Description": "",
+                    "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                    "DataType": "TEXT",
+                    "OriginalDataType": "TEXT",
+                    "Length": "100",
+                    "IsNullable": "1",
+                    "IsPrimaryKey": "0",
+                    "IsAttribute": "0",
+                    "IsCollection": "1",
+                    "MatchingMetaData": {
+                      "FromName": "Game.GameLevelGroups",
+                      "FromObjectName": "Game",
+                      "FromPropertyName": "GameLevelGroups",
+                      "ToName": "GameLevelGroups",
+                      "ToObjectName": "Game",
+                      "ToPropertyName": "GameLevelGroups",
+                      "Include": "true",
+                      "IsCollection": "1",
+                      "Description": "",
+                      "DataType": "TEXT"
+                    },
+                    "RAWData": {
+                      "Name": "GameLevelGroups",
+                      "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                      "DataType": "TEXT",
+                      "Length": "100",
+                      "IsNullable": "1",
+                      "IsPrimaryKey": "0",
+                      "IsAttribute": "0",
+                      "IsCollection": "1"
+                    }
+                  },
+                  {
                     "Name": "DefaultSpaces",
                     "OriginalName": "DefaultSpaces",
                     "Description": "",
@@ -2271,6 +2446,41 @@
                     }
                   },
                   {
+                    "Name": "Game",
+                    "OriginalName": "Game",
+                    "Description": "",
+                    "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                    "DataType": "TEXT",
+                    "OriginalDataType": "TEXT",
+                    "Length": "100",
+                    "IsNullable": "1",
+                    "IsPrimaryKey": "0",
+                    "IsAttribute": "0",
+                    "IsCollection": "0",
+                    "MatchingMetaData": {
+                      "FromName": "GameLevelGroup.Game",
+                      "FromObjectName": "GameLevelGroup",
+                      "FromPropertyName": "Game",
+                      "ToName": "Game",
+                      "ToObjectName": "GameLevelGroup",
+                      "ToPropertyName": "Game",
+                      "Include": "true",
+                      "IsCollection": "0",
+                      "Description": "",
+                      "DataType": "TEXT"
+                    },
+                    "RAWData": {
+                      "Name": "Game",
+                      "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                      "DataType": "TEXT",
+                      "Length": "100",
+                      "IsNullable": "1",
+                      "IsPrimaryKey": "0",
+                      "IsAttribute": "0",
+                      "IsCollection": "0"
+                    }
+                  },
+                  {
                     "Name": "GameLevels",
                     "OriginalName": "GameLevels",
                     "Description": "",
@@ -2331,6 +2541,41 @@
                     },
                     "RAWData": {
                       "Name": "Name",
+                      "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                      "DataType": "TEXT",
+                      "Length": "100",
+                      "IsNullable": "1",
+                      "IsPrimaryKey": "0",
+                      "IsAttribute": "0",
+                      "IsCollection": "0"
+                    }
+                  },
+                  {
+                    "Name": "GameName",
+                    "OriginalName": "GameName",
+                    "Description": "",
+                    "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
+                    "DataType": "TEXT",
+                    "OriginalDataType": "TEXT",
+                    "Length": "100",
+                    "IsNullable": "1",
+                    "IsPrimaryKey": "0",
+                    "IsAttribute": "0",
+                    "IsCollection": "0",
+                    "MatchingMetaData": {
+                      "FromName": "GameLevelGroup.GameName",
+                      "FromObjectName": "GameLevelGroup",
+                      "FromPropertyName": "GameName",
+                      "ToName": "GameName",
+                      "ToObjectName": "GameLevelGroup",
+                      "ToPropertyName": "GameName",
+                      "Include": "true",
+                      "IsCollection": "0",
+                      "Description": "",
+                      "DataType": "TEXT"
+                    },
+                    "RAWData": {
+                      "Name": "GameName",
                       "Namespace": "com.anabstractlevel.Schemas.ODXMLSchema.",
                       "DataType": "TEXT",
                       "Length": "100",

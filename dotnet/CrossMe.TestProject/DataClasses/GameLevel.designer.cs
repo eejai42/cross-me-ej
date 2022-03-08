@@ -49,20 +49,20 @@ namespace crossmegame.Lib.DataClasses
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "LevelGroup")]
         public String LevelGroup { get; set; }
     
-        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "GroupNumber")]
-        public Nullable<Byte> GroupNumber { get; set; }
-    
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "Name")]
         public String Name { get; set; }
     
-        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "PuzzleHeight")]
-        public Nullable<Byte> PuzzleHeight { get; set; }
+        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "GroupNumber")]
+        public Nullable<Byte> GroupNumber { get; set; }
+    
+        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "ExpectedDefinitionCells")]
+        public Nullable<Byte> ExpectedDefinitionCells { get; set; }
     
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "PuzzleWidth")]
         public Nullable<Byte> PuzzleWidth { get; set; }
     
-        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "ExpectedDefinitionCells")]
-        public Nullable<Byte> ExpectedDefinitionCells { get; set; }
+        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "PuzzleHeight")]
+        public Nullable<Byte> PuzzleHeight { get; set; }
     
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "PuzzleCells")]
         public Nullable<Byte> PuzzleCells { get; set; }

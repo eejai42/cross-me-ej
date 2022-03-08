@@ -31,6 +31,7 @@ namespace crossmegame.Lib.DataClasses
             {
                 var levelPuzzleCells = myCells.Where(cell => cell.GroupNumber == feLevel.GroupNumber && cell.LevelNumber == feLevel.LevelNumber && cell.CellStateCategory == "Answer");
                 var sb = new StringBuilder();
+                //sb.AppendLine(feLevel.Name);
                 for (var y = 0; y < feLevel.PuzzleHeight; y++)
                 {
                     for (var x = 0; x < feLevel.PuzzleWidth; x++)
